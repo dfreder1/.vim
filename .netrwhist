@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/dougs2021air/.ssh'
+let g:netrw_dirhist_4='/Users/dougs2021air/Projects/m17/m17efc/M17ExampleFlowChart'
+let g:netrw_dirhist_3='/Users/dougs2021air/.zsh_sessions'
+let g:netrw_dirhist_2='/Users/dougs2021air/.pyenv'
+let g:netrw_dirhist_1='/Users/dougs2021air/.zsh_sessions'
