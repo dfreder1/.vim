@@ -1,5 +1,5 @@
 echo " "
-echo "Started reading ~/.vimrc from top"
+echo "Started reading ~/.vim/vimrc from top"
 echo ""
 
 set nocompatible
@@ -122,6 +122,6 @@ endif
 "   source /etc/vim/vimrc.local
 " endif
 echo " "
-echo "End of ~/.vimrc reached"
+echo "End of ~/.vim/vimrc reached"
 echo " "
 echo " "
